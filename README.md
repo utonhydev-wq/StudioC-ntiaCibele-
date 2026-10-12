@@ -68,6 +68,7 @@ cd studio-cintia-cibele
 ```bash
 npm install
 ```
+*(O arquivo `.npmrc` já está configurado com `legacy-peer-deps=true` para garantir compatibilidade entre o Vite 8 e as dependências na Vercel e localmente).*
 
 ### 3. Iniciar o servidor de desenvolvimento
 
