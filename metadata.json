@@ -1,0 +1,6 @@
+{
+  "name": "Studio Cíntia Cibele | Epilação e Estética",
+  "description": "Bio site profissional do Studio Cíntia Cibele em Prazeres, Jaboatão dos Guararapes — PE. Epilação hidrossolúvel, clareamento de áreas e cuidados faciais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
